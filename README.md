@@ -61,7 +61,7 @@ El análisis se centró en las siguientes variables clave:
 
 A pesar de la creencia común, el análisis del boxplot muestra que la edad, por sí sola, **no presenta una diferencia significativa** entre los grupos de alto y bajo riesgo. [cite_start]Las distribuciones de edad en ambos grupos son casi idénticas[cite: 251, 252].
 
-![Gráfico de Edad vs Riesgo](https://i.imgur.com/0VHOcdA.pg)
+![Gráfico de Edad vs Riesgo](https://i.imgur.com/0VHOcdA.png)
 
 #### Hallazgo 2: La Categoría del Vehículo es clave en el Fraude
 
