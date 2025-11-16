@@ -61,7 +61,7 @@ El análisis se centró en las siguientes variables clave:
 
 A pesar de la creencia común, el análisis del boxplot muestra que la edad, por sí sola, **no presenta una diferencia significativa** entre los grupos de alto y bajo riesgo. [cite_start]Las distribuciones de edad en ambos grupos son casi idénticas[cite: 251, 252].
 
-![Gráfico de Edad vs Riesgo](https://imgur.com/0VHOcdA)
+![Gráfico de Edad vs Riesgo](https://i.imgur.com/0VHOcdA.pg)
 
 #### Hallazgo 2: La Categoría del Vehículo es clave en el Fraude
 
@@ -72,7 +72,7 @@ A pesar de la creencia común, el análisis del boxplot muestra que la edad, por
 
 [cite_start]Al cruzar la variable objetivo de fraude (`FraudFound_P`) con la categoría del vehículo, se observa que los vehículos tipo **"Sedan"** no solo son los más comunes, sino que también son la categoría donde se comete más fraude en términos absolutos[cite: 348].
 
-![Gráfico de Fraude por Vehículo](https://imgur.com/FQisUXv)
+![Gráfico de Fraude por Vehículo](https://i.imgur.com/FQisUXv.png)
 
 #### Otros Hallazgos
 * [cite_start]**Riesgo por Tipo de Póliza:** Las pólizas tipo "Sedan" (Collision, Liability y All Perils) concentran la mayor cantidad de asegurados clasificados como de alto riesgo[cite: 295].
